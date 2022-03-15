@@ -1,6 +1,7 @@
 /*
 百度贴吧签到脚本
 
+from: https://github.com/NobyDa/Script/blob/master/BDTieBa-DailyBonus/TieBa.js
 脚本修改自: https://github.com/sazs34/TaskConfig
 兼容: QuantumultX, Surge4, Loon
 

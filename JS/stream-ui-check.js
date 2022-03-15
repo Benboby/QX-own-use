@@ -12,6 +12,8 @@ For Loon 344+ ONLY!!
 
 generic script-path= https://raw.githubusercontent.com/Benboby/QX-own-use/main/JS/stream-ui-check.js, tag=流媒体-解锁查询, img-url=checkmark.seal.system, enabled=true
 
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体解锁查询, img-url=arrowtriangle.right.square.system, enabled=true
+
 @XIAO_KOP
 
 **/

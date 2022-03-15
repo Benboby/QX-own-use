@@ -28,7 +28,7 @@ const BASE_URL_Discovery_token = "https://us1-prod-direct.discoveryplus.com/toke
 const BASE_URL_Discovery = "https://us1-prod-direct.discoveryplus.com/users/me"
 
 const link = { "media-url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/southpark/7.png" } 
-const policy_name = "速蛙云" //填入你的 netflix 策略组名
+const policy_name = "国际媒体" //填入你的 netflix 策略组名
 
 const arrow = " ➟ "
 

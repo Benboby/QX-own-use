@@ -28,11 +28,11 @@ QuantumultX 本地脚本配置:
 
 [task_local]
 # 贴吧签到
-0 9 * * * TieBa.js
+0 9 * * * https://raw.githubusercontent.com/Benboby/QX-own-use/main/JS/TieBa.js
 
 [rewrite_local]
 # 获取Cookie
-https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header TieBa.js
+https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header https://raw.githubusercontent.com/Benboby/QX-own-use/main/JS/TieBa.js
 
 [mitm] 
 hostname= c.tieba.baidu.com
